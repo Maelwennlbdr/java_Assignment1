@@ -39,7 +39,7 @@ public class SwingEventWindow extends JFrame implements ActionListener {
 
 
     public SwingEventWindow() {
-        super("GUI Swing Window");
+        super("Assignment 1 - Java");
 
         setSize(500, 200);
         setVisible(true);
